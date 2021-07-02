@@ -1,0 +1,22 @@
+{
+  "name": "typescript-type-import-bug-repro",
+  "version": "1.0.0",
+  "description": "typescript import type bug repro",
+  "main": "index.ts",
+  "scripts": {
+    "start": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samouri/typescript-type-import-bug-repro.git"
+  },
+  "author": "samouri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samouri/typescript-type-import-bug-repro/issues"
+  },
+  "homepage": "https://github.com/samouri/typescript-type-import-bug-repro#readme",
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
+}
